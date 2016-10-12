@@ -1,0 +1,5 @@
+<?
+class CalendarAppModel extends AppModel {
+
+}
+?>

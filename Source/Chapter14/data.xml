@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+	<post>
+		<id></id>
+		<name>Writing Posts in XML is a Snap</name>
+		<date>2008-11-08 12:00:01</date>
+		<content>
+			Using the XML utility class in Cake with the Set::reverse() function makes parsing XML easy.
+		</content>
+		<user_id>1</user_id>
+	</post>
+	<post>
+		<id></id>
+		<name>More XML Posts, Not so Bad</name>
+		<date>2008-11-08 12:00:01</date>
+		<content>
+			Using the XML utility class in Cake with the Set::extract() function makes parsing XML easy.
+		</content>
+		<user_id>1</user_id>
+	</post>
+</blog>

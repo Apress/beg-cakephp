@@ -1,0 +1,1 @@
+<div class="vote"><?=$votes;?></div>

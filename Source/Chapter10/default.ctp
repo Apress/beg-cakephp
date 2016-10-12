@@ -1,0 +1,1 @@
+<?=$rss->document(null,$content_for_layout);?>

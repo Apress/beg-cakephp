@@ -1,0 +1,13 @@
+* {font-family: "Lucida Grande",Lucida,sans-serif; } 
+
+th { 
+	font-size: 14px; 
+	font-weight: bold; 
+	background-color: #e1e1e1; 
+	border-bottom: 1px solid #ccc; 
+	padding: 10px; 
+} 
+
+div.actions ul { 
+	list-style-type: none; 
+} 

@@ -1,0 +1,5 @@
+<?
+class CalendarAppController extends AppController {
+
+}
+?>
